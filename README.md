@@ -1,5 +1,5 @@
 '''
-script to convert a sig rig to a rig that can be used in Unreal Engine
+script to convert a single slot rig to a rig that can be used in Unreal Engine
 we need to keep the body and head blendshape data so they can be animated
 but we want to remove the skinning info so we can re-bind the geo to the UE rig
 this contains just the animation skeleton (no def rig)
